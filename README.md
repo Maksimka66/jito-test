@@ -1,4 +1,4 @@
-# Jito's Front-end Intern "html2json" Test Task
+# Jito's Software Development Intern "html2json" Test Task
 
 ## Task Rationale
 This task is designed to evaluate how well you solve problems without having every detail explicitly provided and to assess the quality of your deliverables. This type of task isn't necessarily reflective of your future work but aims to help us understand your thought process and reasoning in the context of software development.
