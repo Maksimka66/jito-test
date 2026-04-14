@@ -26,9 +26,6 @@ A <ins><b>.zip</b></ins> archive containing the following:
 - Using a DOM parser is not allowed.
 - How effectively you handled unexpected scenarios, such as situations where your code received valid HTML but still crashed or produced incorrect results. We will evaluate your ability to anticipate edge cases and ensure robustness in your solution.
 
-## Deadlines
-- You have 7 calendar days to complete this task. You may choose when to start.
-
 ## Submission instructions
 - Ensure that all links provided are <ins>accessible in incognito mode</ins>, as inaccessible links will result in your work <b>NOT</b> being reviewed.
 - Upload your <ins><b>.zip</b></ins> archive with the results by instructions we sent you before.
