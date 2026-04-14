@@ -39,4 +39,4 @@ Before submitting your final results, double or even triple-check everything:
 - Submit the archive in <ins><b>.zip</b></ins> format. If you submit any other archive type, we will <b>NOT</b> review it, and your task will be marked as failed.
 - Jito’s senior developer will thoroughly review your solution. Based on this review, if deemed appropriate, you may be invited for a technical code review. This will include questions about the code, your understanding, and the reasoning behind your solution choices.
 - The best indicator that you’ve done your best is the feeling of confidence when submitting, knowing that you have thoroughly checked your work and cannot think of anything more to improve.
-- You can view test task template [here](https://jito-dev.github.io/jito-frontend-intern-test-task-2024/)
+- You can view test task template [here](https://jito-dev.github.io/jito-intern-test-task/)
