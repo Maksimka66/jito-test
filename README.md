@@ -7,8 +7,7 @@ This task is designed to evaluate how well you solve problems without having eve
 Your task is to implement a function called `html2json`, which converts HTML data into a JSON representation.
 AI tools usage is <b>REQUIRED</b>. Is is required that you provide your entire conversation history by attaching a link to the dialogue. Therefore, keep all your research within a single conversation and submit the link along with your task.
 
-## Expected deliverables
-A <ins><b>.zip</b></ins> archive containing the following:
+## Expected repository structure
 - `html2json.js` - This file should contain your implementation of the html2json function.
 - `html_samples/` folder - Include files with a text that you used as samples to test your function.
 - `index.html` - The initial file we provided. You can leave it unchanged, but please include it in the archive.
@@ -23,10 +22,6 @@ A <ins><b>.zip</b></ins> archive containing the following:
 - Code cleanliness and formatting.
 - Using a DOM parser is not allowed.
 - How effectively you handled unexpected scenarios, such as situations where your code received valid HTML but still crashed or produced incorrect results. We will evaluate your ability to anticipate edge cases and ensure robustness in your solution.
-
-## Submission instructions
-- Ensure that all links provided are <ins>accessible in incognito mode</ins>, as inaccessible links will result in your work <b>NOT</b> being reviewed.
-- Upload your <ins><b>.zip</b></ins> archive with the results by instructions we sent you before.
 
 ## P.S. from the team
 Please focus on quality rather than speed. Quality in this context means ensuring your solution is well thought-out, robust, and free of obvious issues. The speed of delivery will <b>NOT</b> be prioritized, so take the necessary time to research and refine your approach, as long as you complete the task within the specified timeframe.
