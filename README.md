@@ -5,9 +5,7 @@ This task is designed to evaluate how well you solve problems without having eve
 
 ## Assignment
 Your task is to implement a function called `html2json`, which converts HTML data into a JSON representation.
-We <b>DON'T</b> discourage the use of AI tools like ChatGPT; in fact, we <b>EXPECT</b> developers today to leverage these tools to enhance their work. However, if you do use ChatGPT, it is required that you provide your entire conversation history by attaching a link to the dialogue. Therefore, keep all your research within a single conversation and submit the link along with your task.
-
-If we detect that AI was used but you claim otherwise, or if we find the code was AI-generated and you haven’t disclosed this, we will <b>NOT</b> evaluate your submission. So either use AI tools and share your chat or complete the task without them — <ins>do not attempt to deceive us</ins>.
+AI tools usage is <b>REQUIRED</b>. Is is required that you provide your entire conversation history by attaching a link to the dialogue. Therefore, keep all your research within a single conversation and submit the link along with your task.
 
 ## Expected deliverables
 A <ins><b>.zip</b></ins> archive containing the following:
@@ -36,7 +34,6 @@ Before submitting your final results, double or even triple-check everything:
 - Verify that all links you provide are accessible in incognito mode, as broken links will result in your submission <b>NOT</b> being reviewed.
 - Just before submitting, test your code again to ensure it still functions correctly and handles the html samples without crashing. If your code crashes or fails on your own samples, it will be treated as a failed submission.
 - Make sure all items are included according to the [Expected Deliverables](#expected-deliverables) section. If any required files or information are missing, we will <b>NOT</b> be able to review your task, and it will be <ins>treated as failed</ins>.
-- Submit the archive in <ins><b>.zip</b></ins> format. If you submit any other archive type, we will <b>NOT</b> review it, and your task will be marked as failed.
 - Jito’s senior developer will thoroughly review your solution. Based on this review, if deemed appropriate, you may be invited for a technical code review. This will include questions about the code, your understanding, and the reasoning behind your solution choices.
 - The best indicator that you’ve done your best is the feeling of confidence when submitting, knowing that you have thoroughly checked your work and cannot think of anything more to improve.
 - You can view test task template [here](https://jito-dev.github.io/jito-intern-test-task/)
