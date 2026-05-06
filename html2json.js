@@ -62,23 +62,24 @@ function appendNode(stack, node, roots) {
     }
 }
 
+function parseAttributes(tagString) {
+    const attributes = {}
+
+    let match
+
+    while ((match = attrRegex.exec(tagString)) !== null) {
+        const key = match[1] || match[3]
+        const value = match[2] || match[4]
+
+        attributes[key] = value
+    }
+
+    return attributes
+}
+
 function html2json(htmlText) {
     const stack = []
     const roots = []
-
-    function parseAttributes(tagString) {
-        const attributes = {}
-
-        let match
-
-        while ((match = attrRegex.exec(tagString)) !== null) {
-            const key = match[1] || match[3]
-            const value = match[2] || match[4]
-            attributes[key] = value
-        }
-
-        return attributes
-    }
 
     let i = 0
 
@@ -94,6 +95,7 @@ function html2json(htmlText) {
                 appendNode(stack, createCommentNode(commentContent.trim()), roots)
 
                 i = closeIndex !== -1 ? closeIndex + 3 : htmlText.length
+
                 continue
             }
 

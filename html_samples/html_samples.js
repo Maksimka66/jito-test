@@ -73,10 +73,6 @@ const sampleDeepNesting = `<div>
 
 </div>`
 
-const sampleUnescapedSymbolsLikeRealWorld = `<p>
-    Math example: 1 < 2 and 3 > 1
-</p>`
-
 const sampleMixedEverything = `<!DOCTYPE html>
 <html>
 <head>
